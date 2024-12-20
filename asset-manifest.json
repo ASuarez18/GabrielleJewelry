@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GabrielleJewelry/static/css/main.71e0c0fe.css",
+    "main.js": "/GabrielleJewelry/static/js/main.30a4c705.js",
+    "index.html": "/GabrielleJewelry/index.html",
+    "main.71e0c0fe.css.map": "/GabrielleJewelry/static/css/main.71e0c0fe.css.map",
+    "main.30a4c705.js.map": "/GabrielleJewelry/static/js/main.30a4c705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e0c0fe.css",
+    "static/js/main.30a4c705.js"
+  ]
+}
