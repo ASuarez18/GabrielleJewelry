@@ -15,7 +15,7 @@ function Navbar() {
           {/* Icono de las 3 lineas */}
           <AiOutlineMenu size={30} />
         </div>
-        <h1 className='text-2xl sm:text-3xl lg:text-4xl p-2 text-violet-400'>
+        <h1 className='text-2xl sm:text-3xl lg:text-4xl p-2 text-pink-600'>
           {/* Best <span className='font-bold'>Eats</span> */}
           Gabrielle
         </h1>
@@ -51,7 +51,7 @@ function Navbar() {
       <div className={nav ? 'fixed top-0 left-0 w-[300px] h-screen bg-white z-10 duration-300' : 'fixed top-0 left-[-100%] w-[300px] h-screen bg-white z-10 duration-300'}>
         {/* Closing side menu icon */}
         <AiOutlineClose onClick={() => setNav(!nav)} size={30} className='absolute right-4 top-4 cursor-pointer' />
-        <h2 className='text-2xl p-4 text-violet-400'>
+        <h2 className='text-2xl p-4 text-pink-600'>
           Gabrielle <span className='font-bold'>Silver</span>
         </h2>
         <nav>
